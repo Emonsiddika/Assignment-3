@@ -1,0 +1,71 @@
+.btn{
+    background-color: rgb(49, 201, 145);
+    font-weight: bold;
+    }
+    span{
+        color: rgb(49, 201, 145);
+    }
+
+#SemperSection{
+  background-color: rgb(49, 201, 145) ;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media  screen and (max-width: 576px) {
+      
+     
+      #bannerText>h1{
+        font-size:30px ;
+        margin: 0;
+      }  
+
+#bannerText{
+    margin-left: 20px;
+}
+
+#DUCIMUS{
+  padding-top: 200px;
+  text-align: center;
+}
+
+#iconSection{
+  margin-top: 2000px;
+  text-align: center;
+}
+#crossImg{
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
